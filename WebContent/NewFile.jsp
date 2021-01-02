@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	소스트리 연동 연습
+	소스트리 연동 연습 
+	소스트리 연동 연습2
 </body>
 </html>
